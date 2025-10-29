@@ -48,5 +48,5 @@ python projectSto.py
 ---
 
 **ผู้จัดทำ:**
-- Student ID: 663040117-7
-- Name: (กรอกชื่อของคุณ)
+- Student ID: 663040128-2
+- Name: นายภูวดล ทองรอง
